@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Bekzat. I am a senior CS student from 🇰🇿 passionate about different technologies and Web Development in particular.
+
+Feel free to contact me via <a href="https://t.me/beph64">telegram</a> for any kind of discussion.
+
+And don't forget that science can amuse and fascinate us all, but it is engineering that changes the world!
+
+
 <!--
 **bekbeis/bekbeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
