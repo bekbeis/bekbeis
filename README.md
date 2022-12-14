@@ -1,8 +1,10 @@
 ### Yo 👋
 
-My name is Bekzat. I am a senior CS student from 🇰🇿 passionate about programming and all kinds of technologies.
+My name is Bekzat. I am a senior CS student from 🇰🇿 passionate about software engineering.
 
-Feel free to contact me via <a href="https://t.me/beph64">telegram</a> to discuss any topics.
+I am mainly doing stuff related to web development and my senior project (static type-checking tool for Python) for now.
+
+You can reach me via <a href="https://t.me/beph64">telegram</a> in case you to chat about anything.
 
 
 <!--
