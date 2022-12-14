@@ -2,9 +2,9 @@
 
 My name is Bekzat. I am a senior CS student from 🇰🇿 passionate about software engineering.
 
-I am mainly doing stuff related to web development and my senior project (static type-checking tool for Python) for now.
+I am mainly doing stuff related to web development and my senior project for now.
 
-You can reach me via <a href="https://t.me/beph64">telegram</a> in case you to chat about anything.
+You can reach me via <a href="https://t.me/beph64">telegram</a> in case you want to chat about anything.
 
 
 <!--
