@@ -1,10 +1,17 @@
-### Yo 👋
+#### Salem 👋
 
-My name is Bekzat. I am a senior CS student from 🇰🇿 passionate about software engineering.
+#### I'm a senior CS student passionate about building things.
 
-I am mainly doing stuff related to web development and my senior project for now.
+##### NOW
 
-You can reach me via <a href="https://t.me/beph64">telegram</a> in case you want to chat about anything.
+- 🐍 Developing Python Static Type Checking tool
+- 🌏 Exploring web development from all perspectives
+
+##### BIO
+- 🛠 I use: `.js`, `.py`, `.html`, `.css`, `.vue`
+- 🌱 Learning all about VueJS & NodeJS
+- 💬 Ping me about any awesome stuff related to software engineering
+- 📫 Reach me via [t.me/beph64](https://t.me/beph64) or [bekzat.beis@gmail.com](mailto:bekzat.beis@gmail.com)
 
 
 <!--
