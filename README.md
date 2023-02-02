@@ -9,7 +9,7 @@
 
 ##### BIO
 - 🛠 I use: `.js`, `.py`, `.html`, `.css`, `.react`
-- 🌱 Learning all about VueJS & NodeJS
+- 🌱 Learning all about Svelte & NodeJS
 - 💬 Ping me about any awesome stuff related to software engineering
 - 📫 Reach me via [t.me/beph64](https://t.me/beph64) or [bekzat.beis@gmail.com](mailto:bekzat.beis@gmail.com)
 
