@@ -4,12 +4,11 @@
 
 ##### NOW
 
-- 🐍 Developing Python Static Type Checking tool
-- 🌏 Exploring web development from all perspectives
+- 🌏 Waiting for my graduation and looking for a full-time job
 
 ##### BIO
 - 🛠 I use: `.js`, `.py`, `.html`, `.css`, `.react`
-- 🌱 Learning all about Svelte & NodeJS
+- 🌱 Learning all about web development
 - 💬 Ping me about any awesome stuff related to software engineering
 - 📫 Reach me via [t.me/beph64](https://t.me/beph64) or [bekzat.beis@gmail.com](mailto:bekzat.beis@gmail.com)
 
