@@ -1,14 +1,14 @@
 #### Salem 👋
 
-#### I'm a senior CS student passionate about building things.
+#### I'm a graduate CS student passionate about building things.
 
 ##### NOW
 
-- 🌏 Waiting for my graduation and looking for a full-time job
+- 🌏 Obtaining a master's degree and looking for a full-time job
 
 ##### BIO
-- 🛠 I use: `.js`, `.py`, `.html`, `.css`, `.react`
-- 🌱 Learning all about web development
+- 🛠 I mainly use: `.py`, `.js`
+- 🔭 Currently working on image caption generation and simple programming language
 - 💬 Ping me about any awesome stuff related to software engineering
 - 📫 Reach me via [t.me/beph64](https://t.me/beph64) or [bekzat.beis@gmail.com](mailto:bekzat.beis@gmail.com)
 
