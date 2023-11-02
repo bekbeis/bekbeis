@@ -8,7 +8,7 @@
 
 ##### BIO
 - 🛠 I mainly use: `.py`, `.js`
-- 🔭 Currently working on image caption generation and simple programming language
+- 🔭 Currently working on a simple programming language
 - 💬 Ping me about any awesome stuff related to software engineering
 - 📫 Reach me via [t.me/beph64](https://t.me/beph64) or [bekzat.beis@gmail.com](mailto:bekzat.beis@gmail.com)
 
