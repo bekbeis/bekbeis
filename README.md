@@ -1,3 +1,8 @@
+#### Sälem 👨‍💻
+
+My name is Bekzat. I am a software engineer from Astana, Kazakhstan.
+
+<!--
 #### Salem 👋
 
 #### I'm a graduate CS student passionate about building things.
@@ -13,7 +18,7 @@
 - 📫 Reach me via [t.me/beph64](https://t.me/beph64) or [bekzat.beis@gmail.com](mailto:bekzat.beis@gmail.com)
 
 
-<!--
+
 **bekbeis/bekbeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
