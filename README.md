@@ -1,4 +1,4 @@
-#### Sälem 👨‍💻
+#### Sälem!
 
 My name is Bekzat. I am a software engineer from Astana, Kazakhstan.
 
